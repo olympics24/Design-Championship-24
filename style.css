@@ -56,10 +56,10 @@ ul li a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: transparent;
+    background-color: white;
     color: black;
     text-align: center;
 }
@@ -69,7 +69,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
+    background-color: darkturquoise;
     color: white;
 
 }
@@ -86,10 +86,10 @@ ul li a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: transparent;
+    background-color: white;
     color: black;
     text-align: center;
 }
@@ -99,8 +99,8 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
-    color: white;
+    /* background-color: darkturquoise; */
+    color: black;
 
 }
 .parallax-3 {
@@ -116,11 +116,11 @@ ul li a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: transparent;
-    color: orangered;
+    background-color: white;
+    color: black;
     text-align: center;
 }
 
@@ -129,7 +129,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
+    background-color: darkturquoise;
     color: white;
 
 }
@@ -146,11 +146,11 @@ ul li a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: transparent;
-    color: orangered;
+    background-color: white;
+    color: black;
     text-align: center;
 }
 
@@ -159,7 +159,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
+    background-color: darkturquoise;
     color: white;
 
 }
@@ -176,11 +176,11 @@ ul li a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: transparent;
-    color: orangered;
+    background-color: white;
+    color: black;
     text-align: center;
 }
 
@@ -189,7 +189,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
+    background-color: darkturquoise;
     color: white;
 
 }
@@ -219,7 +219,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: black;
+    background-color: darkturquoise;
     color: white;
 
 }
