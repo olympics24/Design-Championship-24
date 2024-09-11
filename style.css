@@ -45,8 +45,9 @@ ul li a:hover{
 .parallax-1 {
     width: 100%;
     height: 600px;
-    background-image: url(
-        "C:\Users\acer\Documents\GitHub\Design-Championship-24\Pictures\Home Page\2024-Paris-Olympics.jpg");
+    background: url(
+        'https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/x5z6bm4phzraok3rwfzl'
+    );
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -64,17 +65,19 @@ ul li a:hover{
 }
 
 .para-parallax-1 {
-    padding: 50px;
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
     background-color: black;
     color: white;
-    font-size: 17px;
-    height: 30px;
+
 }
 .parallax-2 {
     width: 100%;
     height: 600px;
     background: url(
-        'https://img.jagranjosh.com/images/2024/July/2272024/How-to-Buy-Tickets-paris-game.webp');
+        'https://www.hollywoodreporter.com/wp-content/uploads/2023/05/PARIS24-NBCU-NETWORKS-H-2023.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -104,7 +107,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://static.toiimg.com/thumb/msid-88424003,width-400,resizemode-4/88424003.jpg');
+        'https://cdn.outsideonline.com/wp-content/uploads/2023/10/olympic-rings-paris_h.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -122,6 +125,96 @@ ul li a:hover{
 }
 
 .para-parallax-3 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+
+}
+.parallax-4 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'https://www.tvguide.com/a/img/resize/91c49960cbe15b06a460defee2aa5f6e54aa6f68/hub/2024/05/08/a0beb7a1-4527-42a9-a3d3-2d58e607710e/olympics.jpg?auto=webp');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-4 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 520px;
+    height: 32px;
+    padding: 10px;
+    background-color: transparent;
+    color: orangered;
+    text-align: center;
+}
+
+.para-parallax-4 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+
+}
+.parallax-5 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'https://business.itn.co.uk/wp-content/uploads/2024/07/parisolympics.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-5 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 520px;
+    height: 32px;
+    padding: 10px;
+    background-color: transparent;
+    color: orangered;
+    text-align: center;
+}
+
+.para-parallax-5 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+
+}
+.parallax-6 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'https://www.archeryeurope.org/wp-content/uploads/2020/12/logo-parigi-2024.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-6 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 520px;
+    height: 32px;
+    padding: 10px;
+    background-color: transparent;
+    color: orangered;
+    text-align: center;
+}
+
+.para-parallax-6 {
     text-align: center;
     padding: 25px;
     font-size: 17px;
