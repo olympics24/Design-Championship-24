@@ -42,7 +42,221 @@ ul li a:hover{
     margin-bottom: 40px;
 }
 
+.parallax-1 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'https://img.olympics.com/images/image/private//t_s_w1460/f_auto/primary/ibdykjb3d1uqlgbf5go9'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-1 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
 
+.para-parallax-1 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.parallax-2 {
+    width: 100%;
+    height: 600px;
+    background-image: url(
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1914.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-2 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-2 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.parallax-3 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1920.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-3 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-3 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.parallax-4 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1957.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-4 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-4 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.parallax-5 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1986.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-5 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-5 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.parallax-6 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/olympics%20logo.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-6 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-6 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
+.parallax-7 {
+    width: 100%;
+    height: 600px;
+    background: url(
+        'https://cdn.outsideonline.com/wp-content/uploads/2023/10/olympic-rings-paris_h.jpg'
+    );
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallax-7 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 470px;
+    height: 32px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.para-parallax-7 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
+
+}
 
 
 
