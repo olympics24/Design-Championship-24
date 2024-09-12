@@ -69,8 +69,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: darkturquoise;
-    color: white;
+    color: black;
 
 }
 .parallax-2 {
@@ -99,7 +98,6 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    /* background-color: darkturquoise; */
     color: black;
 
 }
@@ -129,8 +127,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: darkturquoise;
-    color: white;
+    color: black;
 
 }
 .parallax-4 {
@@ -159,8 +156,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: darkturquoise;
-    color: white;
+    color: black;
 
 }
 .parallax-5 {
@@ -189,8 +185,7 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: darkturquoise;
-    color: white;
+    color: black;
 
 }
 .parallax-6 {
@@ -219,11 +214,42 @@ ul li a:hover{
     padding: 25px;
     font-size: 17px;
     font-family: Verdana;
-    background-color: darkturquoise;
-    color: white;
+    color: black;
 
 }
 
+
+.end{
+    background-color: black;
+    color: white;
+    }
+.ring-number button{
+    color: white;
+    background-color: black;
+    height: 70px;
+    border: 35px solid black;
+    margin-left: 200px;
+    }
+.none{
+    color: black;
+    }
+.instaface{
+    color: white;
+    }
+.instaface a{
+    color: white;
+    text-decoration: underline;
+    }
+.end-line{
+    color: thin white;
+    width: 85%;
+    }
+.end-titles-main{
+    margin-top: 50px;
+    }
+.end-titles-main{
+    text-align: center;
+    }
 
 /* .olympics2024{ 
     margin-top: 30px;
