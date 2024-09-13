@@ -46,7 +46,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://img.olympics.com/images/image/private//t_s_w1460/f_auto/primary/ibdykjb3d1uqlgbf5go9'
+        'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1913.jpg'
     );
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -76,7 +76,7 @@ ul li a:hover{
 .parallax-2 {
     width: 100%;
     height: 600px;
-    background-image: url(
+    background: url(
         'file:///C:/Users/acer/Documents/GitHub/Design-Championship-24/Design-Championship-24/Pictures/Olympic%20Logo_1914.jpg'
     );
     background-size: 100% 100%;
@@ -258,25 +258,23 @@ ul li a:hover{
 
 }
 
-
-
-/* .end{
+.end{
     background-color: black;
     color: white;
-}
+    }
 .ring-number button{
     color: white;
     background-color: black;
     height: 70px;
     border: 35px solid black;
     margin-left: 200px;
-}
+    }
 .none{
     color: black;
-}
+    }
 .instaface{
     color: white;
-}
+    }
 .instaface a{
     color: white;
     text-decoration: underline;
@@ -284,10 +282,10 @@ ul li a:hover{
 .end-line{
     color: thin white;
     width: 85%;
-}
+    }
 .end-titles-main{
     margin-top: 50px;
     }
 .end-titles-main{
     text-align: center;
-} */
+    }
