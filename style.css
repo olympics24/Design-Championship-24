@@ -14,7 +14,6 @@ ul li{
     border-radius: 8px;
     text-align: center;
     font-size: 20px;
-    
     }
 
 ul li a{
@@ -46,7 +45,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/x5z6bm4phzraok3rwfzl'
+        'Pictures/Home\ Page/1.jpg'
     );
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -76,7 +75,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://www.hollywoodreporter.com/wp-content/uploads/2023/05/PARIS24-NBCU-NETWORKS-H-2023.jpg');
+        'Pictures/Home\ Page/2.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -105,7 +104,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://cdn.outsideonline.com/wp-content/uploads/2023/10/olympic-rings-paris_h.jpg');
+        'Pictures/Home\ Page/3.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -134,7 +133,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://www.tvguide.com/a/img/resize/91c49960cbe15b06a460defee2aa5f6e54aa6f68/hub/2024/05/08/a0beb7a1-4527-42a9-a3d3-2d58e607710e/olympics.jpg?auto=webp');
+        'Pictures/Home\ Page/4.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -163,7 +162,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://business.itn.co.uk/wp-content/uploads/2024/07/parisolympics.jpg');
+        'Pictures/Home\ Page/5.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -192,7 +191,7 @@ ul li a:hover{
     width: 100%;
     height: 600px;
     background: url(
-        'https://www.archeryeurope.org/wp-content/uploads/2020/12/logo-parigi-2024.jpg');
+        'Pictures/Home\ Page/6.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
