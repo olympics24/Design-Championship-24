@@ -24,9 +24,39 @@ ul li a{
 }
 
 ul li a:hover{
-    background-color: cyan;
-    border-radius: 8px;
-    color: black;
+    background-color: #3498db;
+    border-radius: 21px;
+    color: #fdfefe;
+}
+ul li:nth-child(6) a:hover{
+    background-color: #f1c40f;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(5) a:hover{
+    background-color: #1b2631;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(4) a:hover{
+    background-color: rgb(63, 216, 63);
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(3) a:hover{
+    background-color: red;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(2) a:hover{
+    background-color: #5f6a6a;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(1) a:hover{
+    background-color: #76448a;
+    border-radius: 21px;
+    color: white;
 }
 
 .logo{
