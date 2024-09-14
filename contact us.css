@@ -41,6 +41,11 @@ ul li a:hover{
     margin-bottom: 40px;
 }
 
+.form{
+    margin-left: 30%;
+}
+
+
 .end{
     background-color: black;
     color: white;
