@@ -48,12 +48,12 @@ ul li:nth-child(3) a:hover{
     color: white;
 }
 ul li:nth-child(2) a:hover{
-    background-color: pink;
+    background-color: #f001de;
     border-radius: 21px;
     color: white;
 }
 ul li:nth-child(1) a:hover{
-    background-color: #ca6f1e;
+    background-color: #c8f20b;
     border-radius: 21px;
     color: white;
 }

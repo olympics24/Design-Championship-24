@@ -28,6 +28,37 @@ ul li a:hover{
     color: black;
 }
 
+ul li:nth-child(6) a:hover{
+    background-color: #f1c40f;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(5) a:hover{
+    background-color: #1b2631;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(4) a:hover{
+    background-color: #28b463;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(3) a:hover{
+    background-color: red;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(2) a:hover{
+    background-color: #f001de;
+    border-radius: 21px;
+    color: white;
+}
+ul li:nth-child(1) a:hover{
+    background-color: #c8f20b;
+    border-radius: 21px;
+    color: white;
+}
+
 .logo{
     float: left;
     margin-left: 20px;
