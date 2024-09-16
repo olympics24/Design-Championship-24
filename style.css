@@ -3,10 +3,17 @@ body{
     padding: 0;
 }
 
+.nav-btns{
+    position: sticky;
+    top: 30px;
+    background-color: #28b463;
+}
+
 ul li{
     background-color: transparent;
     height: 35px;
-    width: 190px;
+    width: 110px;
+    padding: 0 30px;
     line-height: 35px;
     float: right;
     display: block;
@@ -69,6 +76,14 @@ ul li:nth-child(1) a:hover{
 .hr-line{
     margin-top: 50px;
     margin-bottom: 40px;
+}
+
+.intro-para{
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    color: black;
 }
 
 .parallax-1 {
