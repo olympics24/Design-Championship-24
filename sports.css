@@ -93,20 +93,20 @@ ul li:nth-child(1) a:hover{
 .end{
     background-color: black;
     color: white;
-}
+    }
 .ring-number button{
     color: white;
     background-color: black;
     height: 70px;
     border: 35px solid black;
     margin-left: 200px;
-}
+    }
 .none{
     color: black;
-}
+    }
 .instaface{
     color: white;
-}
+    }
 .instaface a{
     color: white;
     text-decoration: underline;
@@ -114,10 +114,10 @@ ul li:nth-child(1) a:hover{
 .end-line{
     color: thin white;
     width: 85%;
-}
+    }
 .end-titles-main{
     margin-top: 50px;
     }
 .end-titles-main{
     text-align: center;
-}
+    }
