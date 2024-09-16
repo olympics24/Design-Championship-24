@@ -6,7 +6,8 @@ body{
 ul li{
     background-color: transparent;
     height: 35px;
-    width: 190px;
+    width: 110px;
+    padding: 0 30px;
     line-height: 35px;
     float: right;
     display: block;
@@ -22,29 +23,28 @@ ul li a{
     color: black;
 }
 
-ul li a:hover{
-    background-color: cyan;
-    border-radius: 8px;
-    color: black;
+ul li:nth-child(7) a:hover{
+    background-color: #3e76ec;
+    border-radius: 21px;
+    color: #fdfefe;
 }
-
 ul li:nth-child(6) a:hover{
-    background-color: #f1c40f;
+    background-color: #000000;
     border-radius: 21px;
     color: white;
 }
 ul li:nth-child(5) a:hover{
-    background-color: #1b2631;
+    background-color: #ff0000;
     border-radius: 21px;
     color: white;
 }
 ul li:nth-child(4) a:hover{
-    background-color: #28b463;
+    background-color: #ffce01;
     border-radius: 21px;
     color: white;
 }
 ul li:nth-child(3) a:hover{
-    background-color: red;
+    background-color: #179a13;
     border-radius: 21px;
     color: white;
 }

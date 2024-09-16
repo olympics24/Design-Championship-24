@@ -72,23 +72,6 @@ ul li:nth-child(1) a:hover{
     margin-bottom: 40px;
 }
 
-.sports-img{
-    margin-left: 10px;
-    margin-right: 10px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-}
-
-.btn-img img{
-    height: 200px;
-    width: 359px;
-    float: right;
-    margin-bottom: 20px;
-    padding: 0;
-}
-.btn-img img h4{
-    margin-top: 10px;
-}
 
 .end{
     background-color: black;
