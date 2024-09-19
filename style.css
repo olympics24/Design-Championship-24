@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: Noto Sans, sans-serif;
     padding: 0;
 }
 
@@ -82,7 +83,7 @@ ul li:nth-child(1) a:hover{
     text-align: center;
     padding: 25px;
     font-size: 17px;
-    font-family: Verdana;
+    font-family: Noto Sans, sans-serif;
     color: black;
 }
 
@@ -103,8 +104,8 @@ ul li:nth-child(1) a:hover{
     width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: white;
-    color: black;
+    background-color: rgb(0, 183, 255);
+    color: white;
     text-align: center;
 }
 
@@ -112,7 +113,7 @@ ul li:nth-child(1) a:hover{
     text-align: center;
     padding: 25px;
     font-size: 17px;
-    font-family: Verdana;
+    font-family: Noto Sans, sans-serif;
     color: black;
 
 }
@@ -132,8 +133,8 @@ ul li:nth-child(1) a:hover{
     width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     text-align: center;
 }
 
@@ -141,7 +142,7 @@ ul li:nth-child(1) a:hover{
     text-align: center;
     padding: 25px;
     font-size: 17px;
-    font-family: Verdana;
+    font-family: Noto Sans, sans-serif;
     color: black;
 
 }
@@ -161,8 +162,8 @@ ul li:nth-child(1) a:hover{
     width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: white;
-    color: black;
+    background-color: red;
+    color: white;
     text-align: center;
 }
 
@@ -190,8 +191,8 @@ ul li:nth-child(1) a:hover{
     width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: white;
-    color: black;
+    background-color: #f1c40f;
+    color: white;
     text-align: center;
 }
 
@@ -219,8 +220,8 @@ ul li:nth-child(1) a:hover{
     width: 470px;
     height: 32px;
     padding: 10px;
-    background-color: white;
-    color: black;
+    background-color: green;
+    color: white;
     text-align: center;
 }
 
