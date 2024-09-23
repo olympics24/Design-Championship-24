@@ -22,6 +22,7 @@ ul li a{
     text-decoration: none;
     display: block;
     color: black;
+    color: #000;
 }
 
 ul li:nth-child(7) a:hover{
@@ -55,7 +56,7 @@ ul li:nth-child(2) a:hover{
     color: white;
 }
 ul li:nth-child(1) a:hover{
-    background-color: #c8f20b;
+    background-color: #00FFFF;
     border-radius: 21px;
     color: white;
 }
@@ -95,8 +96,8 @@ ul li:nth-child(1) a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 470px;
-    height: 70px;
+    width: 480px;
+    height: 49px;
     padding: 10px;
     background-color: rgb(0, 183, 255);
     color: white;
@@ -241,11 +242,11 @@ ul li:nth-child(1) a:hover{
     position: relative;
     left: 500x;
     top: 300px;
-    width: 520px;
+    width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: transparent;
-    color: rgb(0,0,0);
+    background-color: violet;
+    color: white;
     text-align: center;
 }
 
