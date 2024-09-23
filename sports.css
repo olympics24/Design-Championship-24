@@ -89,6 +89,7 @@ ul li:nth-child(1) a:hover{
 }
 .btn-img img h4{
     margin-top: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .end{

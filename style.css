@@ -22,9 +22,6 @@ ul li a{
     text-decoration: none;
     display: block;
     color: black;
-    color: #000;
-    letter-spacing: 4px;
-    font-weight: 500px;
 }
 
 ul li:nth-child(7) a:hover{
