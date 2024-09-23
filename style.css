@@ -61,17 +61,17 @@ header ul li a{
     font-weight: 500px;
 }
 
-ul li:nth-child(7) a:hover{
+ul li:nth-child(1) a:hover{
     background-color: #3e76ec;
     border-radius: 21px;
     color: #fdfefe;
 }
-ul li:nth-child(6) a:hover{
+ul li:nth-child(2) a:hover{
     background-color: #000000;
     border-radius: 21px;
     color: white;
 }
-ul li:nth-child(5) a:hover{
+ul li:nth-child(3) a:hover{
     background-color: #ff0000;
     border-radius: 21px;
     color: white;
@@ -81,17 +81,17 @@ ul li:nth-child(4) a:hover{
     border-radius: 21px;
     color: white;
 }
-ul li:nth-child(3) a:hover{
+ul li:nth-child(5) a:hover{
     background-color: #179a13;
     border-radius: 21px;
     color: white;
 }
-ul li:nth-child(2) a:hover{
+ul li:nth-child(6) a:hover{
     background-color: #f001de;
     border-radius: 21px;
     color: white;
 }
-ul li:nth-child(1) a:hover{
+ul li:nth-child(7) a:hover{
     background-color: #c8f20b;
     border-radius: 21px;
     color: white;
