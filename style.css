@@ -26,7 +26,7 @@ header .logo{
     font-weight: 700;
     color: #000;
     text-decoration: none;
-    font-size: 3em;
+    font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -131,7 +131,7 @@ ul li:nth-child(7) a:hover{
 .para-parallax-1 {
     text-align: center;
     padding: 25px;
-    font-size: 17px;
+    font-size: 19px;
     font-family: Noto Sans, sans-serif;
     color: black;
 
@@ -150,7 +150,7 @@ ul li:nth-child(7) a:hover{
     left: 500x;
     top: 300px;
     width: 470px;
-    height: 32px;
+    height: 49px;
     padding: 10px;
     background-color: black;
     color: white;
@@ -179,7 +179,7 @@ ul li:nth-child(7) a:hover{
     left: 500x;
     top: 300px;
     width: 470px;
-    height: 32px;
+    height: 49px;
     padding: 10px;
     background-color: red;
     color: white;
@@ -208,7 +208,7 @@ ul li:nth-child(7) a:hover{
     left: 500x;
     top: 300px;
     width: 470px;
-    height: 32px;
+    height: 49px;
     padding: 10px;
     background-color: #f1c40f;
     color: white;
@@ -237,7 +237,7 @@ ul li:nth-child(7) a:hover{
     left: 500x;
     top: 300px;
     width: 470px;
-    height: 32px;
+    height: 49px;
     padding: 10px;
     background-color: green;
     color: white;
@@ -266,10 +266,10 @@ ul li:nth-child(7) a:hover{
     left: 500x;
     top: 300px;
     width: 520px;
-    height: 32px;
+    height: 49px;
     padding: 10px;
     background-color: transparent;
-    color: orangered;
+    color: rgb(0,0,0);
     text-align: center;
 }
 
