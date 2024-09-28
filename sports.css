@@ -87,8 +87,10 @@ ul li:nth-child(1) a:hover{
     margin-bottom: 20px;
     padding: 0;
 }
-.btn-img img h4{
+
+label{
     margin-top: 10px;
+    font-weight: bold;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 

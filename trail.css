@@ -1,10 +1,31 @@
-body{
+ body{
     margin: 0;
     font-family: Noto Sans, sans-serif;
     padding: 0;
 }
 
-ul li{
+.container {
+    position: relative;
+}
+
+.container::after{
+    position: absolute;
+    content: "▶";
+    left: 230px;
+    top: 40%;
+    font-size: larger;
+}
+
+/* .image2 {
+    position: absolute;
+    content: "▶";
+    left: 220px;
+    top: 40%;
+    height: 50px;
+    width: 40px; */
+}
+
+/*  ul li{
     background-color: transparent;
     height: 35px;
     width: 110px;
@@ -60,7 +81,7 @@ ul li:nth-child(7) a:hover{
     color: white;
 }
 
-/* header{
+header{
     position: fixed;
     top: 0;
     left: 0;
@@ -72,7 +93,7 @@ ul li:nth-child(7) a:hover{
     z-index: 100000;
     background: #fff;
     color: #000;
-} */
+}
 
 header .logo{
     position: relative;
@@ -86,7 +107,7 @@ header .logo{
 }
 
 
-/* .banner{
+.banner{
     position: relative;
     width: 100%;
     height: 100vh;
