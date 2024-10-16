@@ -77,12 +77,6 @@ ul li:nth-child(7) a:hover{
     color: white;
 }
 
-
-/* .hr-line{
-    margin-top: 50px;
-    margin-bottom: 40px;
-} */
-
 .intro-para{
     text-align: center;
     padding: 25px;
@@ -107,7 +101,7 @@ ul li:nth-child(7) a:hover{
     width: 480px;
     height: 49px;
     padding: 10px;
-    background-color: rgb(0, 183, 255);
+    background-color: #3e76ec;
     color: white;
     text-align: center;
     font-size: 22px;
@@ -137,7 +131,7 @@ ul li:nth-child(7) a:hover{
     width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: black;
+    background-color: #000000;
     color: white;
     text-align: center;
 }
@@ -166,7 +160,7 @@ ul li:nth-child(7) a:hover{
     width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: red;
+    background-color: #ff0000;
     color: white;
     text-align: center;
 }
@@ -195,7 +189,7 @@ ul li:nth-child(7) a:hover{
     width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: #f1c40f;
+    background-color: #ffce01;
     color: white;
     text-align: center;
 }
@@ -224,7 +218,7 @@ ul li:nth-child(7) a:hover{
     width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: green;
+    background-color: #179a13;
     color: white;
     text-align: center;
 }
@@ -253,7 +247,7 @@ ul li:nth-child(7) a:hover{
     width: 470px;
     height: 49px;
     padding: 10px;
-    background-color: violet;
+    background-color: #f001de;
     color: white;
     text-align: center;
 }
@@ -266,7 +260,6 @@ ul li:nth-child(7) a:hover{
     color: black;
 
 }
-
 
 footer{
     background-color: black;
