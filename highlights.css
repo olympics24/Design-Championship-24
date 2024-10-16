@@ -77,16 +77,27 @@ ul li:nth-child(7) a:hover{
     color: white;
 }
 
-.video:nth-child(odd){
-    margin-left: 620px;
-}
-
 .video{
     margin-bottom: 15px;
+    margin-left: 30px;
 }
 
-.video:nth-child(even){
-    margin-left: 30px;
+.video img{
+    width: 870px;
+}
+
+.video form .textbox{
+    width: 350px;
+    height: 100px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 120px;
+}
+
+.video form .submit{
+    float: right;
+    margin-top: -290px;
+    margin-right: 120px;
 }
 
 footer{
