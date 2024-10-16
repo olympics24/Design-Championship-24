@@ -77,12 +77,6 @@ ul li:nth-child(7) a:hover{
     color: white;
 }
 
-
-/* .hr-line{
-    margin-top: 50px;
-    margin-bottom: 40px;
-} */
-
 .intro-para{
     text-align: center;
     padding: 25px;
@@ -266,7 +260,6 @@ ul li:nth-child(7) a:hover{
     color: black;
 
 }
-
 
 footer{
     background-color: black;

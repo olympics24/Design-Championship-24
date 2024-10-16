@@ -77,17 +77,11 @@ ul li:nth-child(7) a:hover{
     color: white;
 }
 
-.hr-line{
-    margin-top: 50px;
-    margin-bottom: 40px;
-}
-
 .form{
     margin-left: 30%;
 }
 
-
-.end{
+footer{
     background-color: black;
     color: white;
     }

@@ -98,7 +98,7 @@ label{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.end{
+footer{
     background-color: black;
     color: white;
     }
