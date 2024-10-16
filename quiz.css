@@ -81,6 +81,15 @@ ul li:nth-child(7) a:hover{
     margin-left: 30%;
 }
 
+.rating{
+    text-align: center;
+}
+
+.rating #text{
+    height: 100px;
+    width: 300px;
+}
+
 footer{
     background-color: black;
     color: white;
