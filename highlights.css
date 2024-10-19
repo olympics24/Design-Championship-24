@@ -78,26 +78,23 @@ ul li:nth-child(7) a:hover{
 }
 
 .video{
-    margin-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.video:nth-child(odd){
+    margin-left: 660px;
+}
+
+.video:nth-child(odd) img{
+    width: 830px;
+}
+
+.video:nth-child(even){
     margin-left: 30px;
 }
 
-.video img{
-    width: 870px;
-}
-
-.video form .feedback{
-    width: 350px;
-    height: 100px;
-    float: right;
-    margin-top: -400px;
-    margin-right: 120px;
-}
-
-.video form .submit{
-    float: right;
-    margin-top: -290px;
-    margin-right: 120px;
+.video:nth-child(even) img{
+    width: 830px;
 }
 
 footer{
