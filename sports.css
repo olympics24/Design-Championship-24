@@ -87,7 +87,6 @@ ul li:nth-child(7) a:hover{
 .btn-img img{
     height: 200px;
     width: 359px;
-    float: right;
     margin-bottom: 20px;
     padding: 0;
 }
@@ -95,7 +94,6 @@ ul li:nth-child(7) a:hover{
 label{
     margin-top: 10px;
     font-weight: bold;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 footer{
