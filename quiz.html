@@ -3,40 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="contact us.css" type="text/css">
-    <title>Contact Us</title>
+    <link rel="stylesheet" href="quiz.css" type="text/css">
+    <title>Quiz</title>
 </head>
 <body>
 
-    <nav class="nav-btns">
+    <header>
+        
+        <div class="logo">
+
+            <a href="index.html"><img src="Pictures\Home Page/logo_up.jpg" alt="Olympics Logo" /></a>
+
+        </div>
 
         <ul>
-            <li><a href="quiz.html">Quiz</a></li>
-            <li><a href="contact us.html">Contact Us</a></li>
-            <li><a href="highlights.html">Highlights</a></li>
-            <li><a href="medals.html">Medals</a></li>
-            <li><a href="sports.html">Sports</a></li>
-            <li><a href="history.html">History</a></li>
             <li><a href="index.html">Home</a></li>
+            <li><a href="history.html">History</a></li>
+            <li><a href="sports.html">Sports</a></li>
+            <li><a href="medals.html">Medals</a></li>
+            <li><a href="highlights.html">Highlights</a></li>
+            <li><a href="contact us.html">Contact Us</a></li>
+            <li><a href="quiz.html">Quiz</a></li>
         </ul>
         
-        <img src="Pictures\Home Page/Olympics Official Logo.png" alt="Olympics Logo" class="logo" />
 
-    </nav>
+    </header>
 
-            <br><br><br><br><br><br><br><br><br><br><br>
-
-    <div class="hr-line">
-
-        <hr class="line-after-nav">
-
-    </div>
 
     <div class="form">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnplqReyKHObfeshK9DIBzzmticprB5m1pwyh2i52cyiCIHQ/viewform?usp=sf_link" width="640" height="1052" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
+    
 
-    <div class = "end">
+    <br><br><br>
+
+    <form action="quiz.html" class="rating">
+        <label for="rate">Please rate the Website</label>
+
+        <select id="rate">
+    <option value="None">None</option>
+    <option value="0">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select>
+
+<br><br>
+
+<textarea name="text" id="text" placeholder="Reason for your rating"></textarea>
+<br>
+
+<input type="submit" value="Submit" class="submit">
+    </form>
+
+    <!-- <br><br><br><br><br><br><br><br><br><br> -->
+
+    <footer>
         <nav><h3>Get in touch</h3></nav>
         <nav><p>
         JayEsh | Pragathi Central School, Pragathi Nagar, Opp JNTU, Hyderabad, Telangana - 500090, India.
@@ -63,7 +92,7 @@
         <hr class = "end-line">
         <p class = "end-titles">&copy; 2024 JayEsh. All Rights Reserved. | Designed By : Team JayEsh</p><br>
         </nav>
-        </div>
+    </footer>
 
 </body>
 </html>
